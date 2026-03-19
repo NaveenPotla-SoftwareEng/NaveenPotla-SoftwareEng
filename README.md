@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, i'm Naveen Potla 👋
 
-<!--
-**NaveenPotla-SoftwareEng/NaveenPotla-SoftwareEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
 
-Here are some ideas to get you started:
+🎓 4th-year B.Tech student at Chalapathi Institute of Technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Passionate about AI/ML, Generative AI, and Agentic AI.
+
+💻 Skilled in MERN stack and AI.
+
+🏆 Winner of the oTTomator Live Agent Studio Hackathon (n8n category) organized by Ottomator (Cole Medin - YT).
+
+⚡ Fast learner and problem solver.
+
+🌐 Portfolio
+
+🛠 Tech Stack & Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Python](https://img.shields.io/badge/Python-blue)
+
